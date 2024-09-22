@@ -12,6 +12,10 @@ namespace Calculos
         {
             Console.WriteLine("Aplicação Cálculos");
 
+            Console.WriteLine($"4 + 2 = {Aritmetica.Soma(4, 2)}");
+
+            Console.WriteLine($"4 - 2 = {Aritmetica.Subtrair(4, 2)}");
+
             Console.ReadKey();
         }
     }
