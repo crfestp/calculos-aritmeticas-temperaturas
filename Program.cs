@@ -26,6 +26,8 @@ namespace Calculos
 
             Console.WriteLine($"100º Fahrenheit = {t1}º Celsius");
 
+            Console.WriteLine("Obrigado por utilizar este programa. Até à próxima!");
+
             Console.ReadKey();
         }
     }
